@@ -1,0 +1,16 @@
+{
+  "name": "iceagemagic.com",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "sanctuary": "3.1.0",
+    "sanctuary-def": "0.22.0"
+  },
+  "devDependencies": {
+    "sanctuary-scripts": "5.0.0"
+  },
+  "scripts": {
+    "lint": "sanctuary-lint",
+    "test": "npm run lint && sanctuary-test && npm run doctest"
+  }
+}
