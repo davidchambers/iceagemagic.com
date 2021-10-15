@@ -310,4 +310,22 @@ export default [
     country: Just ('US'),
     tz: Just ('America/New_York'),
   },
+  {
+    id: 52,
+    name: 'João D. Moreira',
+    country: Just ('PT'),
+    tz: Just ('Europe/Stockholm'),
+  },
+  {
+    id: 53,
+    name: 'Kristoffer Akerö',
+    country: Just ('SE'),
+    tz: Just ('Europe/Stockholm'),
+  },
+  {
+    id: 54,
+    name: 'Dennis Hankvist',
+    country: Just ('SE'),
+    tz: Just ('Europe/Stockholm'),
+  },
 ];
