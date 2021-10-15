@@ -118,4 +118,46 @@ export default [
     country: Just ('BE'),
     tz: Just ('Europe/Brussels'),
   },
+  {
+    id: 20,
+    name: 'Shaun Augeri',
+    country: Just ('US'),
+    tz: Just ('America/New_York'),
+  },
+  {
+    id: 21,
+    name: 'Jarno Nurmesniemi',
+    country: Just ('FI'),
+    tz: Just ('Europe/Helsinki'),
+  },
+  {
+    id: 22,
+    name: 'Taylor Marchand',
+    country: Just ('US'),
+    tz: Just ('America/Chicago'),
+  },
+  {
+    id: 23,
+    name: 'Tuukka Muroke',
+    country: Just ('FI'),
+    tz: Just ('Europe/Helsinki'),
+  },
+  {
+    id: 24,
+    name: 'Shawn Sullivan',
+    country: Just ('US'),
+    tz: Just ('America/Los_Angeles'),
+  },
+  {
+    id: 25,
+    name: 'Patrick Quinn',
+    country: Just ('US'),
+    tz: Just ('America/New_York'),
+  },
+  {
+    id: 26,
+    name: 'Mike Kukovec',
+    country: Just ('US'),
+    tz: Just ('America/Chicago'),
+  },
 ];
