@@ -40,4 +40,28 @@ export default [
     country: Just ('US'),
     tz: Just ('America/New_York'),
   },
+  {
+    id: 7,
+    name: 'Ryan Lauria',
+    country: Just ('US'),
+    tz: Just ('America/New_York'),
+  },
+  {
+    id: 8,
+    name: 'Svante Landgraf',
+    country: Just ('SE'),
+    tz: Just ('Europe/Stockholm'),
+  },
+  {
+    id: 9,
+    name: 'Chris Mason',
+    country: Just ('US'),
+    tz: Just ('America/New_York'),
+  },
+  {
+    id: 10,
+    name: 'Robin Lundh',
+    country: Just ('SE'),
+    tz: Just ('America/New_York'),
+  },
 ];
