@@ -202,4 +202,40 @@ export default [
     country: Just ('CL'),
     tz: Just ('America/Santiago'),
   },
+  {
+    id: 34,
+    name: 'Jason Shaw',
+    country: Just ('CA'),
+    tz: Just ('America/Toronto'),
+  },
+  {
+    id: 35,
+    name: 'Mikael Johansson',
+    country: Just ('AX'),
+    tz: Just ('Europe/Stockholm'),
+  },
+  {
+    id: 36,
+    name: 'Matthew Messa',
+    country: Just ('US'),
+    tz: Just ('America/New_York'),
+  },
+  {
+    id: 37,
+    name: 'Freud88#8698',
+    country: Nothing,
+    tz: Nothing,
+  },
+  {
+    id: 38,
+    name: 'Thomas Sutherlnd',
+    country: Just ('CL'),
+    tz: Just ('Europe/Vienna'),
+  },
+  {
+    id: 39,
+    name: 'Karl Rivest Harnois',
+    country: Just ('CA'),
+    tz: Just ('America/New_York'),
+  },
 ];
