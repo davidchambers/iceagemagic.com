@@ -238,4 +238,40 @@ export default [
     country: Just ('CA'),
     tz: Just ('America/New_York'),
   },
+  {
+    id: 40,
+    name: 'Chris Taylor',
+    country: Just ('US'),
+    tz: Just ('America/Chicago'),
+  },
+  {
+    id: 41,
+    name: 'Dave Portal',
+    country: Just ('US'),
+    tz: Just ('America/New_York'),
+  },
+  {
+    id: 42,
+    name: 'Justin Martinez',
+    country: Just ('US'),
+    tz: Just ('America/Chicago'),
+  },
+  {
+    id: 43,
+    name: 'Britt Freeman',
+    country: Just ('US'),
+    tz: Just ('America/New_York'),
+  },
+  {
+    id: 44,
+    name: 'Simon Christie',
+    country: Just ('GB'),
+    tz: Just ('America/Chicago'),
+  },
+  {
+    id: 45,
+    name: 'Jason Hathaway',
+    country: Just ('US'),
+    tz: Just ('America/New_York'),
+  },
 ];
