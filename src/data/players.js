@@ -334,4 +334,28 @@ export default [
     country: Just ('CA'),
     tz: Just ('America/New_York'),
   },
+  {
+    id: 56,
+    name: 'Chris Laarhoven',
+    country: Just ('AU'),
+    tz: Just ('Australia/Sydney'),
+  },
+  {
+    id: 57,
+    name: 'Pierre Delon',
+    country: Just ('FR'),
+    tz: Just ('Europe/Paris'),
+  },
+  {
+    id: 58,
+    name: 'David Fischer',
+    country: Just ('DE'),
+    tz: Just ('Europe/Berlin'),
+  },
+  {
+    id: 59,
+    name: 'Gregg Graham',
+    country: Just ('US'),
+    tz: Just ('America/New_York'),
+  },
 ];
