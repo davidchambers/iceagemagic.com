@@ -274,4 +274,40 @@ export default [
     country: Just ('US'),
     tz: Just ('America/New_York'),
   },
+  {
+    id: 46,
+    name: 'Maxwell Kahn',
+    country: Just ('US'),
+    tz: Just ('America/Los_Angeles'),
+  },
+  {
+    id: 47,
+    name: 'Ben Revell',
+    country: Just ('US'),
+    tz: Just ('America/New_York'),
+  },
+  {
+    id: 48,
+    name: 'Jon Dittert',
+    country: Just ('US'),
+    tz: Just ('America/New_York'),
+  },
+  {
+    id: 49,
+    name: 'Anthony Fortunato',
+    country: Just ('CA'),
+    tz: Just ('America/Toronto'),
+  },
+  {
+    id: 50,
+    name: 'Chris Paulison',
+    country: Just ('US'),
+    tz: Just ('America/New_York'),
+  },
+  {
+    id: 51,
+    name: 'James Croto',
+    country: Just ('US'),
+    tz: Just ('America/New_York'),
+  },
 ];
