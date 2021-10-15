@@ -64,4 +64,10 @@ export default [
     country: Just ('SE'),
     tz: Just ('America/New_York'),
   },
+  {
+    id: 11,
+    name: 'Mike VanDyke',
+    country: Just ('US'),
+    tz: Just ('America/Los_Angeles'),
+  },
 ];

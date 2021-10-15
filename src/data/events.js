@@ -44,4 +44,17 @@ export default [
       Unplayed (Pair (Nothing) (Just (3))),
     ],
   },
+  {
+    id: 3,
+    name: 'Ice Age III',
+    matches: [
+      Played (Right (Pair (8) (3))),
+      Played (Left (Pair (5) (11))),
+      Played (Right (Pair (3) (5))),
+      Played (Left (Pair (8) (11))),
+      Played (Left (Pair (3) (8))),
+      Played (Right (Pair (5) (3))),
+      Played (Left (Pair (5) (3))),
+    ],
+  },
 ];
