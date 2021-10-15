@@ -328,4 +328,10 @@ export default [
     country: Just ('SE'),
     tz: Just ('Europe/Stockholm'),
   },
+  {
+    id: 55,
+    name: 'Michel Daoust',
+    country: Just ('CA'),
+    tz: Just ('America/New_York'),
+  },
 ];
