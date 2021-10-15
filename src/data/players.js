@@ -160,4 +160,46 @@ export default [
     country: Just ('US'),
     tz: Just ('America/Chicago'),
   },
+  {
+    id: 27,
+    name: 'Ben Twitchen',
+    country: Just ('GB'),
+    tz: Just ('Europe/London'),
+  },
+  {
+    id: 28,
+    name: 'Stu Kolakovic',
+    country: Just ('GB'),
+    tz: Just ('Europe/London'),
+  },
+  {
+    id: 29,
+    name: 'Shawn Pake',
+    country: Just ('GB'),
+    tz: Just ('Europe/London'),
+  },
+  {
+    id: 30,
+    name: 'Jason Beaupre',
+    country: Just ('US'),
+    tz: Just ('America/New_York'),
+  },
+  {
+    id: 31,
+    name: 'Mark Jonovitch',
+    country: Just ('US'),
+    tz: Just ('America/New_York'),
+  },
+  {
+    id: 32,
+    name: 'Jason Keays',
+    country: Just ('CA'),
+    tz: Just ('America/New_York'),
+  },
+  {
+    id: 33,
+    name: 'Andres Hojman',
+    country: Just ('CL'),
+    tz: Just ('America/Santiago'),
+  },
 ];
